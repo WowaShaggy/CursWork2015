@@ -1,0 +1,40 @@
+c:\users\uladzimir_paliukhovi\documents\visual studio 2013\Projects\KURSOVAYA\KURSOVAYA\bin\Debug\KURSOVAYA.exe.config
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\KURSOVAYA.exe.config
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\KURSOVAYA.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\KURSOVAYA.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\NewtonMethod.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\NewtonMethod.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\obj\Debug\KURSOVAYA.csprojResolveAssemblyReference.cache
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\obj\Debug\KURSOVAYA.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\obj\Debug\KURSOVAYA.pdb
+C:\Users\Владимир\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\KURSOVAYA.exe.config
+C:\Users\Владимир\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\KURSOVAYA.exe
+C:\Users\Владимир\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\KURSOVAYA.pdb
+C:\Users\Владимир\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\NewtonMethod.dll
+C:\Users\Владимир\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\NewtonMethod.pdb
+C:\Users\Владимир\Documents\Course_Work_2015\KURSOVAYA\obj\Debug\KURSOVAYA.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Course_Work_2015\KURSOVAYA\obj\Debug\KURSOVAYA.exe
+C:\Users\Владимир\Documents\Course_Work_2015\KURSOVAYA\obj\Debug\KURSOVAYA.pdb
+E:\Files\Учеба\3 курс\Course_Work_2015\KURSOVAYA\bin\Debug\KURSOVAYA.exe.config
+E:\Files\Учеба\3 курс\Course_Work_2015\KURSOVAYA\obj\Debug\KURSOVAYA.exe
+E:\Files\Учеба\3 курс\Course_Work_2015\KURSOVAYA\obj\Debug\KURSOVAYA.pdb
+E:\Files\Учеба\3 курс\Курсовая работа\KURSOVAYA\bin\Debug\KURSOVAYA.exe.config
+E:\Files\Учеба\3 курс\Курсовая работа\KURSOVAYA\obj\Debug\KURSOVAYA.exe
+E:\Files\Учеба\3 курс\Курсовая работа\KURSOVAYA\obj\Debug\KURSOVAYA.pdb
+E:\Files\Учеба\3 курс\Курсовая работа\KURSOVAYA\bin\Debug\KURSOVAYA.exe
+E:\Files\Учеба\3 курс\Курсовая работа\KURSOVAYA\bin\Debug\KURSOVAYA.pdb
+E:\Files\Учеба\3 курс\Курсовая работа\KURSOVAYA\bin\Debug\NewtonMethod.dll
+E:\Files\Учеба\3 курс\Курсовая работа\KURSOVAYA\bin\Debug\NewtonMethod.pdb
+E:\Files\Учеба\3 курс\Курсовая работа\KURSOVAYA\obj\Debug\KURSOVAYA.csprojResolveAssemblyReference.cache
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\KURSOVAYA\bin\Debug\Simpro.Expr.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\KURSOVAYA\bin\Debug\KURSOVAYA.exe.config
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\KURSOVAYA\obj\Debug\KURSOVAYA.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\KURSOVAYA\obj\Debug\KURSOVAYA.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\KURSOVAYA\bin\Debug\KURSOVAYA.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\KURSOVAYA\bin\Debug\KURSOVAYA.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\KURSOVAYA\bin\Debug\NewtonMethod.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\KURSOVAYA\bin\Debug\NewtonMethod.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\KURSOVAYA\obj\Debug\KURSOVAYA.csprojResolveAssemblyReference.cache
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\KURSOVAYA\bin\Debug\KURSOVAYA.exe.config
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\KURSOVAYA\obj\Debug\KURSOVAYA.exe
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\KURSOVAYA\obj\Debug\KURSOVAYA.pdb

@@ -1,0 +1,45 @@
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\bin\Debug\FormPresentation.exe.config
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\bin\Debug\FormPresentation.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\bin\Debug\FormPresentation.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\bin\Debug\NewtonMethod.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\bin\Debug\NewtonMethod.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\FormPresentation.csprojResolveAssemblyReference.cache
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\MainWindow.baml
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\MainWindow.g.cs
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\App.g.cs
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\FormPresentation_MarkupCompile.cache
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\FormPresentation.g.resources
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\FormPresentation.Properties.Resources.resources
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\FormPresentation.csproj.GenerateResource.Cache
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\FormPresentation.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\Course_Work_2015\FormPresentation\obj\Debug\FormPresentation.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\bin\Debug\FormPresentation.exe.config
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\FormPresentation.csprojResolveAssemblyReference.cache
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\MainWindow.baml
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\MainWindow.g.cs
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\App.g.cs
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\FormPresentation_MarkupCompile.cache
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\FormPresentation.g.resources
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\FormPresentation.Properties.Resources.resources
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\FormPresentation.csproj.GenerateResource.Cache
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\bin\Debug\FormPresentation.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\bin\Debug\FormPresentation.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\bin\Debug\NewtonMethod.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\bin\Debug\NewtonMethod.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\FormPresentation.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\CourseWork2015\FormPresentation\obj\Debug\FormPresentation.pdb
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\bin\Debug\FormPresentation.exe.config
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\bin\Debug\FormPresentation.exe
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\bin\Debug\FormPresentation.pdb
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\bin\Debug\NewtonMethod.dll
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\bin\Debug\NewtonMethod.pdb
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\FormPresentation.csprojResolveAssemblyReference.cache
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\MainWindow.baml
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\MainWindow.g.cs
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\App.g.cs
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\FormPresentation_MarkupCompile.cache
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\FormPresentation.g.resources
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\FormPresentation.Properties.Resources.resources
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\FormPresentation.csproj.GenerateResource.Cache
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\FormPresentation.exe
+e:\Files\Учеба\3 курс\Курсовая работа\Course_Work_2015-master\FormPresentation\obj\Debug\FormPresentation.pdb
